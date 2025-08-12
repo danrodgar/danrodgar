@@ -1,4 +1,6 @@
-## Hi there 👋
+## Daniel Rodriguez 👋
+University of Alcala, Madrid, Spain
+daniel.rodriguezg@uah.es
 
 <!--
 **danrodgar/danrodgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
